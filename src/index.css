@@ -1,0 +1,16 @@
+:root {
+  margin: 0;
+  padding: 0;
+  /* --navyvar: #192655;
+  --lightbluevar: #3876bf;
+  --orangevar: #e1aa74;
+  --beigevar: #f3f0ca; */
+
+  font-family: "Roboto", sans-serif;
+  /* font-family: "Shadows Into Light", cursive; */
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
